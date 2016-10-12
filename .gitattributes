@@ -1,0 +1,5 @@
+.gitignore git-encoding=IBM-1047 working-tree-encoding=IBM-1047
+.gitattributes git-encoding=ISO8859-1 working-tree-encoding=ISO8859-1
+untagged* git-encoding=IBM-1047 working-tree-encoding=IBM-1047
+ascii_f* git-encoding=IBM-1047 working-tree-encoding=ISO8859-1
+ebcdic_f* git-encoding=IBM-1047 working-tree-encoding=IBM-1047
